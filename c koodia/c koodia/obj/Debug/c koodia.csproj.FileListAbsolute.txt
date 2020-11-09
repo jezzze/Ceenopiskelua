@@ -1,0 +1,10 @@
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\bin\Debug\c koodia.exe.config
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\bin\Debug\c koodia.exe
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\bin\Debug\c koodia.pdb
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c koodia.csprojAssemblyReference.cache
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c_koodia.Form1.resources
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c_koodia.Properties.Resources.resources
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c koodia.csproj.GenerateResource.cache
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c koodia.csproj.CoreCompileInputs.cache
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c koodia.exe
+C:\Users\jesse.mitronen\Documents\repositiot\Ceenopiskelua\c koodia\c koodia\obj\Debug\c koodia.pdb
