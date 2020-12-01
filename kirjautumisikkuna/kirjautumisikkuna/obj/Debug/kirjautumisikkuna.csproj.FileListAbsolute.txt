@@ -1,0 +1,10 @@
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\bin\Debug\kirjautumisikkuna.exe.config
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\bin\Debug\kirjautumisikkuna.exe
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\bin\Debug\kirjautumisikkuna.pdb
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.Form1.resources
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.Properties.Resources.resources
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.exe
+C:\Users\jesse\source\repos\jezzze\Ceenopiskelua\kirjautumisikkuna\kirjautumisikkuna\obj\Debug\kirjautumisikkuna.pdb
