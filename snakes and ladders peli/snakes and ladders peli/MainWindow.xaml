@@ -1,0 +1,23 @@
+﻿<Window x:Class="snakes_and_ladders_WPF_peli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:snakes_and_ladders_WPF_peli"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Name= "MinunCanvas" Focusable="True" MouseLeftButtonDown="OnClickEventti" Background="Gray">
+        <Label FontSize="26" FontWeight="ExtraBold" Content="Snakes and Ladders peli" Foreground="White" Canvas.Left="238" Canvas.Top="-6" />
+        <Label FontSize="16" FontWeight="Bold" Content="Paina mistä vaan aloittaaksesi vuorosi, tietokone tekee vuoronsa teidän jälkeen" Foreground="White" Canvas.Left="122" Canvas.Top="27" />
+
+        <Image Source="F:\visual studion repot\snakes-and-ladders-game-images-mooict/player.gif" Width="30" Canvas.Left="70" Canvas.Top="709" />
+        <Image Source="F:\visual studion repot\snakes-and-ladders-game-images-mooict/opponent.gif" Width="30" Canvas.Left="497" Canvas.Top="709" />
+
+        <Label Name="txtPelaaja"  FontSize="16" FontWeight="Bold" Content="00" Canvas.Left="105" Canvas.Top="709" />
+        <Label Name="txtPelaajanPaikka" FontSize="16" FontWeight="Bold" Content="Pelaaja on  00" Canvas.Left="105" Canvas.Top="733" />
+
+        <Label Name="txtVastustaja" FontSize="16" FontWeight="Bold" Content="00" Canvas.Left="532" Canvas.Top="709" />
+        <Label Name="txtVastustajanPaikka" FontSize="16" FontWeight="Bold" Content="Vastustaja on  00" Canvas.Left="532" Canvas.Top="733" />
+
+    </Canvas>
+</Window>

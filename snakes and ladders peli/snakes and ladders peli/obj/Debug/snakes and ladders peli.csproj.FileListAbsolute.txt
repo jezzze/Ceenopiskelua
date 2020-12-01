@@ -1,0 +1,15 @@
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\bin\Debug\snakes and ladders peli.exe.config
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\bin\Debug\snakes and ladders peli.exe
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\bin\Debug\snakes and ladders peli.pdb
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.csprojAssemblyReference.cache
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\MainWindow.g.cs
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\App.g.cs
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli_MarkupCompile.cache
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli_MarkupCompile.lref
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\MainWindow.baml
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.g.resources
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes_and_ladders_peli.Properties.Resources.resources
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.csproj.GenerateResource.cache
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.csproj.CoreCompileInputs.cache
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.exe
+C:\Users\jesse\koodit\Ceenopiskelua\snakes and ladders peli\snakes and ladders peli\obj\Debug\snakes and ladders peli.pdb
